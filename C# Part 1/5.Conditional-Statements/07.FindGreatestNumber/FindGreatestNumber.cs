@@ -14,17 +14,6 @@ namespace FindGreatestNumber
              7. Write a program that finds the greatest of given 5 variables.
             */
 
-            //Console.WriteLine("Number one:");
-            //int numberOne = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Number two:");
-            //int numberTwo = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Number two:");
-            //int numberThree = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Number two:");
-            //int numberFour = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Number two:");
-            //int numberFive = int.Parse(Console.ReadLine());
-
             int maxNumberIndex = 0;
 
             int[] numberArray = new int[5];//{ numberOne, numberTwo, numberThree, numberFour, numberFive };
